@@ -1,0 +1,165 @@
+D:\alejandro s\poo avanzada\trabajo_final\bin\Debug\trabajo_final.exe.config
+D:\alejandro s\poo avanzada\trabajo_final\bin\Debug\trabajo_final.exe
+D:\alejandro s\poo avanzada\trabajo_final\bin\Debug\trabajo_final.pdb
+D:\alejandro s\poo avanzada\trabajo_final\obj\Debug\trabajo_final.csproj.AssemblyReference.cache
+D:\alejandro s\poo avanzada\trabajo_final\obj\Debug\trabajo_final.csproj.SuggestedBindingRedirects.cache
+D:\alejandro s\poo avanzada\trabajo_final\obj\Debug\trabajo_final.Form1.resources
+D:\alejandro s\poo avanzada\trabajo_final\obj\Debug\trabajo_final.Properties.Resources.resources
+D:\alejandro s\poo avanzada\trabajo_final\obj\Debug\trabajo_final.csproj.GenerateResource.cache
+D:\alejandro s\poo avanzada\trabajo_final\obj\Debug\trabajo_final.csproj.CoreCompileInputs.cache
+D:\alejandro s\poo avanzada\trabajo_final\obj\Debug\trabajo_final.exe
+D:\alejandro s\poo avanzada\trabajo_final\obj\Debug\trabajo_final.pdb
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.AssemblyReference.cache
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.exe
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.pdb
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\bin\Debug\trabajo_final.exe.config
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\bin\Debug\trabajo_final.exe
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\bin\Debug\trabajo_final.pdb
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Form1.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Loguin.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Mision.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Properties.Resources.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Valor_flor.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Ventas.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Vision.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.GenerateResource.cache
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.CoreCompileInputs.cache
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.AssemblyReference.cache
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.SuggestedBindingRedirects.cache
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.exe
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.pdb
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\bin\Debug\trabajo_final.exe.config
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\bin\Debug\trabajo_final.exe
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\bin\Debug\trabajo_final.pdb
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Form1.resources
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Login.resources
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Mision.resources
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Properties.Resources.resources
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Valor_flor.resources
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Ventas.resources
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.Vision.resources
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.GenerateResource.cache
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.CoreCompileInputs.cache
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\bin\Debug\MySql.Data.dll
+D:\alejandro s\poo avanzada\trabajo_final-20230907T014758Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.CopyComplete
+D:\alejandro s\trabajo_final\bin\Debug\trabajo_final.exe.config
+D:\alejandro s\trabajo_final\bin\Debug\trabajo_final.exe
+D:\alejandro s\trabajo_final\bin\Debug\trabajo_final.pdb
+D:\alejandro s\trabajo_final\bin\Debug\MySql.Data.dll
+D:\alejandro s\trabajo_final\bin\Debug\Google.Protobuf.dll
+D:\alejandro s\trabajo_final\bin\Debug\ZstdNet.dll
+D:\alejandro s\trabajo_final\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\alejandro s\trabajo_final\bin\Debug\BouncyCastle.Crypto.dll
+D:\alejandro s\trabajo_final\bin\Debug\Ubiety.Dns.Core.dll
+D:\alejandro s\trabajo_final\bin\Debug\System.Memory.dll
+D:\alejandro s\trabajo_final\bin\Debug\System.Buffers.dll
+D:\alejandro s\trabajo_final\bin\Debug\K4os.Compression.LZ4.dll
+D:\alejandro s\trabajo_final\bin\Debug\K4os.Hash.xxHash.dll
+D:\alejandro s\trabajo_final\bin\Debug\MySql.Data.xml
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.csproj.AssemblyReference.cache
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.csproj.SuggestedBindingRedirects.cache
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.exe.config
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.Form1.resources
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.Login.resources
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.Mision.resources
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.Properties.Resources.resources
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.Valor_flor.resources
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.Ventas.resources
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.Vision.resources
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.csproj.GenerateResource.cache
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.csproj.CoreCompileInputs.cache
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.csproj.CopyComplete
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.exe
+D:\alejandro s\trabajo_final\obj\Debug\trabajo_final.pdb
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.exe.config
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.exe
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.pdb
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\Google.Protobuf.dll
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\ZstdNet.dll
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Memory.dll
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Buffers.dll
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\MySql.Data.xml
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.AssemblyReference.cache
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.exe.config
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Form1.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Login.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Mision.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Properties.Resources.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Valor_flor.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Ventas.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Vision.resources
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.GenerateResource.cache
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.CoreCompileInputs.cache
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.CopyComplete
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.exe
+C:\Users\diana.escobar\Desktop\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.pdb
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.exe.config
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.exe
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.pdb
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\Google.Protobuf.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\ZstdNet.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Memory.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Buffers.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\MySql.Data.xml
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.AssemblyReference.cache
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.exe.config
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Form1.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Login.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Mision.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Properties.Resources.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Valor_flor.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Ventas.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Vision.resources
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.GenerateResource.cache
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.CoreCompileInputs.cache
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.CopyComplete
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.exe
+C:\Users\diana.escobar\Desktop\PC CEIBA\PC CEIBA\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.pdb
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.exe.config
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.exe
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\trabajo_final.pdb
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\Google.Protobuf.dll
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\ZstdNet.dll
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\BouncyCastle.Crypto.dll
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\Ubiety.Dns.Core.dll
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Memory.dll
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Buffers.dll
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Compression.LZ4.dll
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\K4os.Hash.xxHash.dll
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\System.Numerics.Vectors.dll
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\bin\Debug\MySql.Data.xml
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.AssemblyReference.cache
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.SuggestedBindingRedirects.cache
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.exe.config
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Form1.resources
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Login.resources
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Mision.resources
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Properties.Resources.resources
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Valor_flor.resources
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Ventas.resources
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.Vision.resources
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.GenerateResource.cache
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.csproj.CoreCompileInputs.cache
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_.F58C85A4.Up2Date
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.exe
+D:\5alejo\Censa\POO AVANZADO\trabajo_final-20230919T002934Z-001\trabajo_final\obj\Debug\trabajo_final.pdb
+C:\PC\4 Alejo\Repositorio\C#\trabajo_final\obj\Debug\trabajo_final.csproj.AssemblyReference.cache
+C:\PC\4 Alejo\Repositorio\C#\trabajo_final\obj\Debug\trabajo_final.csproj.SuggestedBindingRedirects.cache
+C:\PC\4 Alejo\Repositorio\C#\trabajo_final\obj\Debug\trabajo_final.exe.config
+C:\PC\4 Alejo\Repositorio\C#\trabajo_final\obj\Debug\trabajo_final.exe
+C:\PC\4 Alejo\Repositorio\C#\trabajo_final\obj\Debug\trabajo_final.pdb

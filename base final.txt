@@ -1,0 +1,35 @@
+drop database if exists floristeria;
+create database floristeria;
+use floristeria
+ 
+create table usuarios(
+cedulausu int not null primary key,
+nombreusu varchar(30) not null,
+Apellidousu varchar(30) not null,
+direccionusu varchar(30) not null,
+telefonousu varchar(30) not null,
+ciudadusu varchar(20) not null
+)engine=innodb;
+
+describe usuarios;
+
+insert into usuarios values("123625458","mario","gomez","calle 10o","3167524852","medellin");
+insert into usuarios values("43257698","carlos mario","sanchez","calle 10dfsd","26785269","medellin");
+insert into usuarios values("243352458","carlos","mosquera","calle sd","3102546445","bogota");
+insert into usuarios values("123456789","maicol","palacios","calle 30 #65-20","3145578624","cali");
+
+
+select * from usuarios;
+
+create table usuario(
+ced_usu int not null primary key,
+nom_usu varchar(30) not null
+)engine=innodb;
+
+describe usuario;
+
+insert into usuario values("123","camilo");
+insert into usuario values("654","andres");
+insert into usuario values("789","mariana");
+
+select * from usuario;
